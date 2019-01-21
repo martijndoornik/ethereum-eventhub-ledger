@@ -1,0 +1,9 @@
+[submodule "LogListener"]
+	path = LogListener
+	url = ./LogListener/
+[submodule "AzureEventhubProtocol"]
+	path = AzureEventhubProtocol
+	url = ./AzureEventhubProtocol/
+[submodule "WalletApi"]
+	path = WalletApi
+	url = ./WalletApi/
